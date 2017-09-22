@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://exabytetv.info/guia.xml"
+#EXTM3U 
 #EXTINF:-1 tvg-logo="https://goo.gl/kQU48j" group-title="z-omitir",CHUKYFLOO-22/09/2017
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-logo="https://goo.gl/ocPQH2" group-title="z-omitir",CHUKYFLOO
@@ -7,9 +7,8 @@ http://streaming203.radionomy.com:80/City-Dance-Radio
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/730855536699138048/H2xBuhtr.jpg" group-title="z-omitir",== PELICULAS-CHUKYFLOO ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1tvg-logo="http://www.cinecalidad.to/wp-content/uploads/2017/09/transformers-el-ultimo-caballero.jpg" group-
 
-title="PELICULASCHUKYFLOO",Transformers: el Ultimo caballero (2017)
+#EXTINF:-1tvg-logo="http://www.cinecalidad.to/wp-content/uploads/2017/09/transformers-el-ultimo-caballero.jpg" group-title="PELICULASCHUKYFLOO",Transformers: el Ultimo caballero (2017)
 https://goo.gl/vGLhzC
 
 #EXTINF:-1tvg-logo="https://goo.gl/53ocUH" group-title="PELICULASCHUKYFLOO",Muerte en Tombstone 2 (2017)

@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1" tvg-logo="http://www.teleport.mx/wp-content/uploads/2017/05/Como-ser-un-latin-lover-Resen%CC%83a-01.jpg" group-title="PELISHDCHUKYFLOO",COMO SER UN LATIN LOVER
+#EXTINF:-1"tvg-logo="http://www.teleport.mx/wp-content/uploads/2017/05/Como-ser-un-latin-lover-Resen%CC%83a-01.jpg" group-title="PELISHDCHUKYFLOO",COMO SER UN LATIN LOVER
 http://187.154.168.169:32400/library/parts/4473/1502311197/file.mkv?X-Plex-Token=P2uxpjyhTEuPzrs37kZe
-#EXTINF:-1" tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_39662.jpg" group-title="PELISHDCHUKYFLOO",Piratas del Caribe - La venganza de Salazar (2017)
+#EXTINF:-1"tvg-logo="https://pics.filmaffinity.com/pirates_of_the_caribbean_dead_men_tell_no_tales-750385069-large.jpg" group-title="PELISHDCHUKYFLOO",Piratas del Caribe - La venganza de Salazar (2017)
 http://187.154.168.169:32400/library/parts/7483/1506103469/file.mp4?X-Plex-Token=P2uxpjyhTEuPzrs37kZe
-#EXTINF:-1" tvg-logo="http://tbsila.cdn.turner.com/tbsila/tntla/images/10192/537144/g/annabelle-2-facebook-warnerbrospictureslatinoamerica.jpg" group-title="PELISHDCHUKYFLOO",ANABELLE LA CREACION
+#EXTINF:-1"tvg-logo="http://tbsila.cdn.turner.com/tbsila/tntla/images/10192/537144/g/annabelle-2-facebook-warnerbrospictureslatinoamerica.jpg" group-title="PELISHDCHUKYFLOO",ANABELLE LA CREACION
 http://187.154.168.169:32400/library/parts/4438/1503182377/file.mkv?X-Plex-Token=P2uxpjyhTEuPzrs37kZe
-#EXTINF:-1" tvg-logo="https://s3.amazonaws.com/pelisfox/cover/original/3ff1005e99a8ab863178c65155ec1133.jpg" group-title="PELISHDCHUKYFLOO",guardianes de la bahia 2017
+#EXTINF:-1"tvg-logo="https://s3.amazonaws.com/pelisfox/cover/original/3ff1005e99a8ab863178c65155ec1133.jpg" group-title="PELISHDCHUKYFLOO",guardianes de la bahia 2017
 http://187.154.168.169:32400/library/parts/4461/1504638255/file.MP4?X-Plex-Token=P2uxpjyhTEuPzrs37kZe
-#EXTINF:-1,LA MUJER MARAVILLA 2017
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/95a2aqEAbo8/movieposter.jpg" group-title="PELISHDCHUKYFLOO",LA MUJER MARAVILLA 2017
 http://187.154.168.169:32400/library/parts/4713/1504386409/file.mkv?X-Plex-Token=P2uxpjyhTEuPzrs37kZe
-#EXTINF:-1,Cult of Chucky 2017
+#EXTINF:-1 tvg-logo="http://cdn.movieweb.com/img.teasers.posters/FI96CoLYzXUAde_2_a/Cult-Of-Chucky.jpg" group-title="PELISHDCHUKYFLOO",Cult of Chucky 2017
 http://187.154.168.169:32400/library/parts/7563/1507595495/file.MP4?X-Plex-Token=P2uxpjyhTEuPzrs37kZe
-#EXTINF:-1,La guerra del planeta de los simios 2017
+#EXTINF:-1"tvg-logo="https://pics.filmaffinity.com/war_for_the_planet_of_the_apes-586054910-large.jpg" group-title="PELISHDCHUKYFLOO",La guerra del planeta de los simios 2017
 http://187.154.168.169:32400/library/parts/7597/1508001026/file.MP4?X-Plex-Token=P2uxpjyhTEuPzrs37kZe
-#EXTINF:-1,EMOJI LA PELICULA 2017
+#EXTINF:-1"https://pics.filmaffinity.com/the_emoji_movie-172311166-large.jpg" group-title="PELISHDCHUKYFLOO",EMOJI LA PELICULA 2017
 http://187.154.168.169:32400/library/parts/7599/1507939475/file.MP4?X-Plex-Token=P2uxpjyhTEuPzrs37kZe
-#EXTINF:-1,BABY DRIVE 2017
+#EXTINF:-1"http://www.vivoenchetumal.com/wp-content/uploads/2017/08/Baby-Driver-Poster.jpg" group-title="PELISHDCHUKYFLOO",BABY DRIVE 2017
 http://187.154.168.169:32400/library/parts/7559/1507596210/file.MP4?X-Plex-Token=P2uxpjyhTEuPzrs37kZe

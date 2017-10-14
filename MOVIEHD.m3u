@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1" tvg-logo="http://www.teleport.mx/wp-content/uploads/2017/05/Como-ser-un-latin-lover-Resen%CC%83a-01.jpg" group-title="ENTRETENIMIENTO",COMO SER UN LATIN LOVER
+#EXTINF:-1" tvg-logo="http://www.teleport.mx/wp-content/uploads/2017/05/Como-ser-un-latin-lover-Resen%CC%83a-01.jpg" group-title="PELISHDCHUKYFLOO",COMO SER UN LATIN LOVER
 http://187.154.168.169:32400/library/parts/4473/1502311197/file.mkv?X-Plex-Token=P2uxpjyhTEuPzrs37kZe
-#EXTINF:-1,Piratas del Caribe - La venganza de Salazar (2017)
+#EXTINF:-1" tvg-logo="https://pics.filmaffinity.com/pirates_of_the_caribbean_dead_men_tell_no_tales-750385069-large.jpg" group-title="PELISHDCHUKYFLOO",Piratas del Caribe - La venganza de Salazar (2017)
 http://187.154.168.169:32400/library/parts/7483/1506103469/file.mp4?X-Plex-Token=P2uxpjyhTEuPzrs37kZe
-#EXTINF:-1,ANABELLE LA CREACION
+#EXTINF:-1" tvg-logo="http://tbsila.cdn.turner.com/tbsila/tntla/images/10192/537144/g/annabelle-2-facebook-warnerbrospictureslatinoamerica.jpg" group-title="PELISHDCHUKYFLOO",ANABELLE LA CREACION
 http://187.154.168.169:32400/library/parts/4438/1503182377/file.mkv?X-Plex-Token=P2uxpjyhTEuPzrs37kZe
-#EXTINF:-1,GUARDIANES DE LA BAHIA
+#EXTINF:-1" tvg-logo="https://s3.amazonaws.com/pelisfox/cover/original/3ff1005e99a8ab863178c65155ec1133.jpg" group-title="PELISHDCHUKYFLOO",guardianes de la bahia 2017
 http://187.154.168.169:32400/library/parts/4461/1504638255/file.MP4?X-Plex-Token=P2uxpjyhTEuPzrs37kZe
 #EXTINF:-1,LA MUJER MARAVILLA 2017
 http://187.154.168.169:32400/library/parts/4713/1504386409/file.mkv?X-Plex-Token=P2uxpjyhTEuPzrs37kZe

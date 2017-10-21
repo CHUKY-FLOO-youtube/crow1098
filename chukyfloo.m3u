@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-0,tvg-logo="https://pbs.twimg.com/media/DCS5DGNV0AA1y0d.jpg"Premonition
 http://condor1726.dedicatedpanel.com/PELICULAS/2.22%20Premonition.mkv
-#EXTINF:-0,HOMBRE EN LLAMAS 
+#EXTINF:-0,tvg-logo="https://pics.filmaffinity.com/man_on_fire-553346603-large.jpg"HOMBRE EN LLAMAS 
 http://condor1726.dedicatedpanel.com/PELICULAS/2004%20-%20Hombre%20en%20Llamas%20%5bMan%20On%20Fire%5d.mkv
-#EXTINF:-0,ANABELLE 2
+#EXTINF:-0,tvg-logo="https://pbs.twimg.com/media/DGWysnxUwAA-Hyy.jpg"ANABELLE 2
 http://condor1726.dedicatedpanel.com/PELICULAS/Annabelle.2.mkv
 #EXTINF:-0,AVATAR
 http://condor1726.dedicatedpanel.com/PELICULAS/Avatar%20-%20The%20Last%20Airbender.mkv

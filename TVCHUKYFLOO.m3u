@@ -11095,3 +11095,307 @@ http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
 #EXTINF:0,RED BULL TV
 #EXTGRP:LISTA3
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:0,BS 12 TwellV
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs13.stream/playlist.m3u8
+#EXTINF:0,BS Asahi
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs03.stream/playlist.m3u8
+#EXTINF:0,BS Fuji
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs05.stream/playlist.m3u8
+#EXTINF:0,BS Japan
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs06.stream/playlist.m3u8
+#EXTINF:0,BS NTV
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs02.stream/playlist.m3u8
+#EXTINF:0,BS-TBS
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs04.stream/playlist.m3u8
+#EXTINF:0,CS219
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs18.stream/playlist.m3u8
+#EXTINF:0,Discovery Channel
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs13.stream/playlist.m3u8
+#EXTINF:0,Disney Channel
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs20.stream/playlist.m3u8
+#EXTINF:0,Eisei Gekijo
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs11.stream/playlist.m3u8
+#EXTINF:0,Fuji TV
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd05.stream/playlist.m3u8
+#EXTINF:0,Golf Network
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs03.stream/playlist.m3u8
+#EXTINF:0,History
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs14.stream/playlist.m3u8
+#EXTINF:0,J Sports 1
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs05.stream/playlist.m3u8
+#EXTINF:0,J Sports 2
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs06.stream/playlist.m3u8
+#EXTINF:0,J Sports 3
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs07.stream/playlist.m3u8
+#EXTINF:0,J Sports 4
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs09.stream/playlist.m3u8
+#EXTINF:0,Kids Station
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs12.stream/playlist.m3u8
+#EXTINF:0,Movie Plus
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs10.stream/playlist.m3u8
+#EXTINF:0,Music Japan
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs17.stream/playlist.m3u8
+#EXTINF:0,Nihon Eiga TV
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs19.stream/playlist.m3u8
+#EXTINF:0,Nippon TV
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd03.stream/playlist.m3u8
+#EXTINF:0,NHK BS1
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs01.stream/playlist.m3u8
+#EXTINF:0,NHK BS Premium
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs14.stream/playlist.m3u8
+#EXTINF:0,NHK Educational TV
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd02.stream/playlist.m3u8
+#EXTINF:0,NHK General TV
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd01.stream/playlist.m3u8
+#EXTINF:0,Samurai Fighting TV
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
+#EXTINF:0,Star Channel 1
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs10.stream/playlist.m3u8
+#EXTINF:0,Star Channel 2
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs11.stream/playlist.m3u8
+#EXTINF:0,Star Channel 3
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs12.stream/playlist.m3u8
+#EXTINF:0,TBS Television
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd04.stream/playlist.m3u8
+#EXTINF:0,Tokyo MX
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd08.stream/playlist.m3u8
+#EXTINF:0,TV Asahi
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd06.stream/playlist.m3u8
+#EXTINF:0,TV Tokyo
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/gd07.stream/playlist.m3u8
+#EXTINF:0,WOWOW Cinema
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs09.stream/playlist.m3u8
+#EXTINF:0,WOWOW Live
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs08.stream/playlist.m3u8
+#EXTINF:0,WOWOW Prime
+#EXTGRP:ESPAÑA Y MAS
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs07.stream/playlist.m3u8#EXTM3U
+#EXTINF:0,UTOPIA LISTS TU GRUPO AMIGO
+#EXTGRP:ESPAÑA Y MAS
+http://media.agonybooth.com/wp-content/uploads/2016/08/06154235/Utopia.jpg
+#EXTINF:0,LA 1
+#EXTGRP:ESPAÑA Y MAS
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=650000.m3u8
+#EXTINF:0,A3
+#EXTGRP:ESPAÑA Y MAS
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:0,LA SEXTA
+#EXTGRP:ESPAÑA Y MAS
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-b.m3u8
+#EXTINF:0,7 TELEVISION
+#EXTGRP:ESPAÑA Y MAS
+http://163.172.15.219:1935/live/vivatv/playlist.m3u8
+#EXTINF:0,8TV
+#EXTGRP:ESPAÑA Y MAS
+http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,NEOX VPN
+#EXTGRP:ESPAÑA Y MAS
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?creadoresenarmoniautopialists?sd=10&rebase=on
+#EXTINF:0,13TV
+#EXTGRP:ESPAÑA Y MAS
+http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,ATRESERIES VPN
+#EXTGRP:ESPAÑA Y MAS
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?creadoresenarmoniautopialists?sd=10&rebase=on
+#EXTINF:0,MEGA TV VPN
+#EXTGRP:ESPAÑA Y MAS
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_4_av-b.m3u8?creadoresenarmoniautopialists?sd=10&rebase=on
+#EXTINF:0,NOVA VPN
+#EXTGRP:ESPAÑA Y MAS
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?creadoresenarmoniautopialists?sd=10&rebase=on
+#EXTINF:0,A3 INTER
+#EXTGRP:ESPAÑA Y MAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_manifest.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,LIFE TV
+#EXTGRP:ESPAÑA Y MAS
+http://163.172.15.219:1935/live/lifetvesp387/playlist.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,A1 ESPAÑA
+#EXTGRP:ESPAÑA Y MAS
+http://178.132.6.97/a1espanmahiryahsattv/index.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,A1 SPORTS
+#EXTGRP:ESPAÑA Y MAS
+http://178.132.6.97/A1Sport/playlist.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,A1 MEDIA TV
+#EXTGRP:ESPAÑA Y MAS
+http://178.132.6.97/A1Film/playlist.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,HAPPY DOG TV
+#EXTGRP:ESPAÑA Y MAS
+http://edge2.everyon.tv:1935/etv2sb/phd1191/playlist.m3u8
+#EXTINF:0,TRAVEL TV HD
+#EXTGRP:ESPAÑA Y MAS
+http://194.179.53.124:1935/live/smil:myStream.smil/playlist.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,DIVINITY
+#EXTGRP:ESPAÑA Y MAS
+http://mset-prgb-2.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/IybDNyYTE6j7PZaKerX9iKFSCuctjf5B/cn/95d3fccb2d6f4ad6b09d23e7c67d3acf.m3u8?hdnea=st=1497693807~exp=1497699207~acl=/out/u/3vkkbgnvsm2r5/104951/IybDNyYTE6j7PZaKerX9iKFSCuctjf5B/cn/?creadoresenarmoniautopialists
+#EXTINF:0,PRIDE CHANNEL TV
+#EXTGRP:ESPAÑA Y MAS
+http://178.132.6.97/11TELEVISION/playlist.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,PRIDE CHANNEL TV
+#EXTGRP:ESPAÑA Y MAS
+https://5940924978228.streamlock.net:443/directo/smil:directo.smil/playlist.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,PARLAMENTO TV
+#EXTGRP:ESPAÑA Y MAS
+http://congresodirectomobile.edgesuite.net/live/live6.stream/.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,RT  ESPAÑOL
+#EXTGRP:ESPAÑA Y MAS
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/index2500.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,CGTN ESPAÑOL
+#EXTGRP:ESPAÑA Y MAS
+http://live.cgtn.com/1000e/prog_index.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,24H
+#EXTGRP:ESPAÑA Y MAS
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_1500_av-p.m3u8?sd=10&rebase=on?creadoresenarmoniautopialists
+#EXTINF:0,DISNEY CHANNEL
+#EXTGRP:ESPAÑA Y MAS
+https://eslivestream-lh.akamaihd.net/i/live_1@318671/index_6_av-p.m3u8?sd=10&rebase=on&id=AgBX2idT1GrbFZg7nVmRioneeMRT5icD7NW8r8lrrqi+i798wXGa7tSwsM%2fVk1x8OfleRBvbOclHVQ%3d%3d&hdntl=exp=1503563032~acl=%2fi%2flive_1%40318671*~data=hdntl~hmac=68ba5a0ef26c4b47a9de9a2e34cf38eb32744000d125f9fcb67bb85292312328?creadoresenarmoniautopialists
+#EXTINF:0,TELEDEPORTE VPN
+#EXTGRP:ESPAÑA Y MAS
+http://hlsackdn_gl1-lh.akamaihd.net/i/hlsdvrlive_1@137561/index_1500_av-p.m3u8?sd=10&rebase=on?creadoresenarmoniautopialists
+#EXTINF:0,EURONEWS ESP
+#EXTGRP:ESPAÑA Y MAS
+http://stream-01.ix7.dailymotion.com/35/dm/3/x2j7hpf/live-2.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,DW EN ESPAÑOL
+#EXTGRP:ESPAÑA Y MAS
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-b.m3u8?sd=10&rebase=on?creadoresenarmoniautopialists
+#EXTINF:0,HISPAN TV
+#EXTGRP:ESPAÑA Y MAS
+http://178.32.255.199:1935/live/hispantv/chunklist_w629034331.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,LIBERTAD DIGITAL
+#EXTGRP:ESPAÑA Y MAS
+http://stream-06.dc3.dailymotion.com/49/dm/3/xnm032/live-2.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,INTERECONOMIA TV
+#EXTGRP:ESPAÑA Y MAS
+https://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/chunklist_w1014890125_b700000.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,TELEMADRID
+#EXTGRP:ESPAÑA Y MAS
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,LA OTRA
+#EXTGRP:ESPAÑA Y MAS
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,ARAGON TV INT
+#EXTGRP:ESPAÑA Y MAS
+http://aragontv.stream.flumotion.com/aragontv/live-hls/main.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,EXTREMADURA SAT TV
+#EXTGRP:ESPAÑA Y MAS
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,ANDALUCIA TV
+#EXTGRP:ESPAÑA Y MAS
+https://youtu.be/uPJZtdlTaR0
+#EXTINF:0,ANDALUCIA COCINA
+#EXTGRP:ESPAÑA Y MAS
+http://cast.streamingconnect.com:1935/cscocina/cscocina/chunklist_w878840188.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,ANDALUCIA TURISMO
+#EXTGRP:ESPAÑA Y MAS
+http://cast.streamingconnect.com:1935/csturismo/csturismo/chunklist_w1747937304.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,ANDALUCIA FLAMANCO
+#EXTGRP:ESPAÑA Y MAS
+http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,OLE TV
+#EXTGRP:ESPAÑA Y MAS
+https://wowzaprodhd55-lh.akamaihd.net/i/ca93a73f_1@354014/master.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,RTPA
+#EXTGRP:ESPAÑA Y MAS
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,EITB
+#EXTGRP:ESPAÑA Y MAS
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,Onda Azul Malaga
+#EXTGRP:ESPAÑA Y MAS
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/chunklist_w765008131.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,CEUTA TV
+#EXTGRP:ESPAÑA Y MAS
+http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,CASTILLA LA MANCHA TV
+#EXTGRP:ESPAÑA Y MAS
+http://klive-a.akamaihd.net/dc-0/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/_8qpezTWS_dE9-Jbl4-o-A/index-s32.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,GALICIA TV E
+#EXTGRP:ESPAÑA Y MAS
+http://media3.crtvg.es/live/_definst_/tvge_2/chunklist_w1724121915.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,NAVARRA TV
+#EXTGRP:ESPAÑA Y MAS
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,RTVCE
+#EXTGRP:ESPAÑA Y MAS
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,LANCELOT
+#EXTGRP:ESPAÑA Y MAS
+http://62.210.141.18:1935/directo/lancelot.television/chunklist_w729355178.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,101 TV MALAGA
+#EXTGRP:ESPAÑA Y MAS
+http://cls.todostreaming.eu/101tv/livestream2/playlist.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,EL CORREO TV
+#EXTGRP:ESPAÑA Y MAS
+http://cls.elitehd-audiovisuales.com/luztv/livestream/chunklist.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,ONDA ALGECIRAS TV
+#EXTGRP:ESPAÑA Y MAS
+http://cls.provideo.es/algecirastv/livestream/.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,IB3 GLOBAL
+#EXTGRP:ESPAÑA Y MAS
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/bitrate_4.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,LA 7 REGION DE MURCIA
+#EXTGRP:ESPAÑA Y MAS
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_4_av-p.m3u8?sd=10&rebase=on?creadoresenarmoniautopialists
+#EXTINF:0,TV3
+#EXTGRP:ESPAÑA Y MAS
+http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:tv3_web/chunklist_b1296000.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,TV3 CAT
+#EXTGRP:ESPAÑA Y MAS
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,3/24
+#EXTGRP:ESPAÑA Y MAS
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,SUPER 3/33
+#EXTGRP:ESPAÑA Y MAS
+http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:c33_web/chunklist_b1296000.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,ESPORT3
+#EXTGRP:ESPAÑA Y MAS
+http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/chunklist_b1296000.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,REAL MADRID TV HD
+#EXTGRP:ESPAÑA Y MAS
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,REAL MADRID TV INGLES HD
+#EXTGRP:ESPAÑA Y MAS
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?creadoresenarmoniautopialists
+#EXTINF:0,SEVILLA FC TV
+#EXTGRP:ESPAÑA Y MAS
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8?creadoresenarmoniautopialists?sd=10&rebase=on&rebase=on
+#EXTINF:0,BETIS TV
+#EXTGRP:ESPAÑA Y MAS
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8?creadoresenarmoniautopialists

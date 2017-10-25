@@ -1,4 +1,628 @@
 #EXTM3U
+#EXTINF:0,iptvtools_1
+#EXTGRP:CANALES FUNCIONALES
+http://bit.ly/2xdu0k8
+#EXTINF:0,iptvtools_2
+#EXTGRP:CANALES FUNCIONALES
+http://bit.ly/2wPyk9B
+#EXTINF:0,iptvtools_3
+#EXTGRP:CANALES FUNCIONALES
+http://c742ecf6-lp-omega.ums.ustream.tv/playlist/directhls/channel/12762028/1/playlist.m3u8?authType=COOKIE&appType=12&appVersion=1&sgn=37aaf3dd64ca3638b0407a4751def2c0d1796722&cdnHost=sjc-ucdn02.ustream.tv/
+#EXTINF:0,iptvtools_4
+#EXTGRP:CANALES FUNCIONALES
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs13.stream/playlist.m3u8
+#EXTINF:0,iptvtools_5
+#EXTGRP:CANALES FUNCIONALES
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs13.stream/playlist.m3u8
+#EXTINF:0,iptvtools_6
+#EXTGRP:CANALES FUNCIONALES
+http://cdn.liveonearth.com/cdnedge/smil:TWL.smil/playlist.m3u8
+#EXTINF:0,iptvtools_7
+#EXTGRP:CANALES FUNCIONALES
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:0,iptvtools_8
+#EXTGRP:CANALES FUNCIONALES
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_500.m3u8
+#EXTINF:0,iptvtools_9
+#EXTGRP:CANALES FUNCIONALES
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:0,iptvtools_10
+#EXTGRP:CANALES FUNCIONALES
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:0,iptvtools_11
+#EXTGRP:CANALES FUNCIONALES
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:0,iptvtools_12
+#EXTGRP:CANALES FUNCIONALES
+http://wowza2.mysoltv.com:1992/BT_Sports_3_HD/tracks-v1a1/index.m3u8
+#EXTINF:0,iptvtools_13
+#EXTGRP:CANALES FUNCIONALES
+http://bit.ly/2uKiMUq
+#EXTINF:0,iptvtools_14
+#EXTGRP:CANALES FUNCIONALES
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:0,iptvtools_15
+#EXTGRP:CANALES FUNCIONALES
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:0,iptvtools_16
+#EXTGRP:CANALES FUNCIONALES
+http://bit.ly/2xpSLKi
+#EXTINF:0,iptvtools_17
+#EXTGRP:CANALES FUNCIONALES
+http://bit.ly/2wxo6WZ
+#EXTINF:0,iptvtools_18
+#EXTGRP:CANALES FUNCIONALES
+http://bit.ly/2x4jzjh
+#EXTINF:0,iptvtools_19
+#EXTGRP:CANALES FUNCIONALES
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:0,iptvtools_20
+#EXTGRP:CANALES FUNCIONALES
+http://bit.ly/2jsUclC
+#EXTINF:0,iptvtools_21
+#EXTGRP:CANALES FUNCIONALES
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:0,iptvtools_22
+#EXTGRP:CANALES FUNCIONALES
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:0,iptvtools_23
+#EXTGRP:CANALES FUNCIONALES
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:0,iptvtools_24
+#EXTGRP:CANALES FUNCIONALES
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:0,iptvtools_25
+#EXTGRP:CANALES FUNCIONALES
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:0,iptvtools_26
+#EXTGRP:CANALES FUNCIONALES
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:0,iptvtools_27
+#EXTGRP:CANALES FUNCIONALES
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,iptvtools_28
+#EXTGRP:CANALES FUNCIONALES
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,iptvtools_29
+#EXTGRP:CANALES FUNCIONALES
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:0,iptvtools_30
+#EXTGRP:CANALES FUNCIONALES
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:0,iptvtools_31
+#EXTGRP:CANALES FUNCIONALES
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
+#EXTINF:0,iptvtools_32
+#EXTGRP:CANALES FUNCIONALES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:0,iptvtools_33
+#EXTGRP:CANALES FUNCIONALES
+http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel
+#EXTINF:0,iptvtools_34
+#EXTGRP:CANALES FUNCIONALES
+http://stream.canalsavoir.tv/livestream/stream.m3u8
+#EXTINF:0,iptvtools_35
+#EXTGRP:CANALES FUNCIONALES
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:0,iptvtools_36
+#EXTGRP:CANALES FUNCIONALES
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:0,iptvtools_37
+#EXTGRP:CANALES FUNCIONALES
+http://stmv2.euroti.com.br:1935/mandruva/mandruva/live.m3u8?wowzasessionid=412620615
+#EXTINF:0,iptvtools_38
+#EXTGRP:CANALES FUNCIONALES
+http://50.7.98.234:1935/rtv/videortv/chunklist_w1293948741.m3u8
+#EXTINF:0,iptvtools_39
+#EXTGRP:CANALES FUNCIONALES
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:0,iptvtools_40
+#EXTGRP:CANALES FUNCIONALES
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?
+#EXTINF:0,iptvtools_41
+#EXTGRP:CANALES FUNCIONALES
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
+#EXTINF:0,iptvtools_42
+#EXTGRP:CANALES FUNCIONALES
+http://ec.sinovision.net/video/ts/lv.m3u8
+#EXTINF:0,iptvtools_43
+#EXTGRP:CANALES FUNCIONALES
+http://tecnotv.xyz/media/telemundo49
+#EXTINF:0,iptvtools_44
+#EXTGRP:CANALES FUNCIONALES
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:0,iptvtools_45
+#EXTGRP:CANALES FUNCIONALES
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:0,iptvtools_46
+#EXTGRP:CANALES FUNCIONALES
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
+#EXTINF:0,iptvtools_47
+#EXTGRP:CANALES FUNCIONALES
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:0,iptvtools_48
+#EXTGRP:CANALES FUNCIONALES
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0,iptvtools_49
+#EXTGRP:CANALES FUNCIONALES
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:0,iptvtools_50
+#EXTGRP:CANALES FUNCIONALES
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+#EXTINF:0,iptvtools_51
+#EXTGRP:CANALES FUNCIONALES
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs17.stream/playlist.m3u8
+#EXTINF:0,iptvtools_52
+#EXTGRP:CANALES FUNCIONALES
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0,iptvtools_53
+#EXTGRP:CANALES FUNCIONALES
+http://186.155.200.118:1935/live/telemusica/playlist.m3u8
+#EXTINF:0,iptvtools_54
+#EXTGRP:CANALES FUNCIONALES
+http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
+#EXTINF:0,iptvtools_55
+#EXTGRP:CANALES FUNCIONALES
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+#EXTINF:0,iptvtools_56
+#EXTGRP:CANALES FUNCIONALES
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:0,iptvtools_57
+#EXTGRP:CANALES FUNCIONALES
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:0,iptvtools_58
+#EXTGRP:CANALES FUNCIONALES
+http://abclive.abcNEWS.com/i/abc_live4@136330/master.m3u8
+#EXTINF:0,iptvtools_59
+#EXTGRP:CANALES FUNCIONALES
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+#EXTINF:0,iptvtools_60
+#EXTGRP:CANALES FUNCIONALES
+http://cbsNEWShd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+#EXTINF:0,iptvtools_61
+#EXTGRP:CANALES FUNCIONALES
+http://live.cgtn.com/cctv-e.m3u8
+#EXTINF:0,iptvtools_62
+#EXTGRP:CANALES FUNCIONALES
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:0,iptvtools_63
+#EXTGRP:CANALES FUNCIONALES
+http://178.32.255.199:1935/live/hispantv/playlist.m3u8
+#EXTINF:0,iptvtools_64
+#EXTGRP:CANALES FUNCIONALES
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+#EXTINF:0,iptvtools_65
+#EXTGRP:CANALES FUNCIONALES
+http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8
+#EXTINF:0,iptvtools_66
+#EXTGRP:CANALES FUNCIONALES
+http://b2.stream8.rai.it/live/smil%3Arnews1_android.smil/playlist.m3u8
+#EXTINF:0,iptvtools_67
+#EXTGRP:CANALES FUNCIONALES
+http://www.alertamundial.com/wp-content/uploads/2015/04/RT-en-Espa
+#EXTINF:0,iptvtools_68
+#EXTGRP:CANALES FUNCIONALES
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
+#EXTINF:0,iptvtools_69
+#EXTGRP:CANALES FUNCIONALES
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+#EXTINF:0,iptvtools_70
+#EXTGRP:CANALES FUNCIONALES
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:0,iptvtools_71
+#EXTGRP:CANALES FUNCIONALES
+http://bit.ly/2uM1qGP
+#EXTINF:0,iptvtools_72
+#EXTGRP:CANALES FUNCIONALES
+http://bit.ly/2uwf80p
+#EXTINF:0,iptvtools_73
+#EXTGRP:CANALES FUNCIONALES
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:0,iptvtools_74
+#EXTGRP:CANALES FUNCIONALES
+http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
+#EXTINF:0,iptvtools_75
+#EXTGRP:CANALES FUNCIONALES
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:0,iptvtools_76
+#EXTGRP:CANALES FUNCIONALES
+http://bit.ly/2vNO2S8
+#EXTINF:0,iptvtools_77
+#EXTGRP:CANALES FUNCIONALES
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:0,iptvtools_78
+#EXTGRP:CANALES FUNCIONALES
+http://bit.ly/2fzDJe3
+#EXTINF:0,iptvtools_79
+#EXTGRP:CANALES FUNCIONALES
+http://bit.ly/2vYBSp3
+#EXTINF:0,iptvtools_80
+#EXTGRP:CANALES FUNCIONALES
+http://bit.ly/2uOakia
+#EXTINF:0,iptvtools_81
+#EXTGRP:CANALES FUNCIONALES
+http://bit.ly/2vMhkho
+#EXTINF:0,iptvtools_82
+#EXTGRP:CANALES FUNCIONALES
+http://bit.ly/2we43Bd
+#EXTINF:0,iptvtools_83
+#EXTGRP:CANALES FUNCIONALES
+http://live-19.viewer.dacast.com/i/dclive_1@336785/master.m3u8
+#EXTINF:0,iptvtools_84
+#EXTGRP:CANALES FUNCIONALES
+http://bit.ly/2uwraXB
+#EXTINF:0,iptvtools_85
+#EXTGRP:CANALES FUNCIONALES
+http://142.4.208.146:1935/cn247/cn247/chunklist.m3u8
+#EXTINF:0,iptvtools_86
+#EXTGRP:CANALES FUNCIONALES
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:0,iptvtools_87
+#EXTGRP:CANALES FUNCIONALES
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:0,iptvtools_88
+#EXTGRP:CANALES FUNCIONALES
+http://qmnoticiashls-lh.akamaihd.net/i/qmnoticiasTEST_hls@324831/master.m3u8
+#EXTINF:0,iptvtools_89
+#EXTGRP:CANALES FUNCIONALES
+http://bit.ly/2vYC0F3
+#EXTINF:0,iptvtools_90
+#EXTGRP:CANALES FUNCIONALES
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0,iptvtools_91
+#EXTGRP:CANALES FUNCIONALES
+http://201.219.100.30:1935/telpintv/ttv.stream_360p/playlist.m3u8
+#EXTINF:0,iptvtools_92
+#EXTGRP:CANALES FUNCIONALES
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0,iptvtools_93
+#EXTGRP:CANALES FUNCIONALES
+http://192.99.46.56:1935/patbolivia/patsantacruz/playlist.m3u8
+#EXTINF:0,iptvtools_94
+#EXTGRP:CANALES FUNCIONALES
+http://live.sba1.com/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+#EXTINF:0,iptvtools_95
+#EXTGRP:CANALES FUNCIONALES
+http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+#EXTINF:0,iptvtools_96
+#EXTGRP:CANALES FUNCIONALES
+http://45.43.208.2:1935/classique/classique/live.m3u8
+#EXTINF:0,iptvtools_97
+#EXTGRP:CANALES FUNCIONALES
+http://172.93.110.130:1935/livretv/livretv/playlist.m3u8
+#EXTINF:0,iptvtools_98
+#EXTGRP:CANALES FUNCIONALES
+http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
+#EXTINF:0,iptvtools_99
+#EXTGRP:CANALES FUNCIONALES
+http://173.236.10.10:1935/rbtv/rbtv/livestream.m3u8
+#EXTINF:0,iptvtools_100
+#EXTGRP:CANALES FUNCIONALES
+http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8
+#EXTINF:0,iptvtools_101
+#EXTGRP:CANALES FUNCIONALES
+http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
+#EXTINF:0,iptvtools_102
+#EXTGRP:CANALES FUNCIONALES
+http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
+#EXTINF:0,iptvtools_103
+#EXTGRP:CANALES FUNCIONALES
+http://streaming2.inforede.inf.br:1935/c1076ev2932/aovivo/live.m3u8
+#EXTINF:0,iptvtools_104
+#EXTGRP:CANALES FUNCIONALES
+http://wz-brasil1.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
+#EXTINF:0,iptvtools_105
+#EXTGRP:CANALES FUNCIONALES
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+#EXTINF:0,iptvtools_106
+#EXTGRP:CANALES FUNCIONALES
+http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
+#EXTINF:0,iptvtools_107
+#EXTGRP:CANALES FUNCIONALES
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:0,iptvtools_108
+#EXTGRP:CANALES FUNCIONALES
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8
+#EXTINF:0,iptvtools_109
+#EXTGRP:CANALES FUNCIONALES
+http://v1.fabricahost.com.br/tvguara/tvguara/live.m3u8
+#EXTINF:0,iptvtools_110
+#EXTGRP:CANALES FUNCIONALES
+http://177.73.84.49/hls/live/live.m3u8
+#EXTINF:0,iptvtools_111
+#EXTGRP:CANALES FUNCIONALES
+http://184.172.23.109:1935/live/tvmix02/tvmix02/livestream.m3u8
+#EXTINF:0,iptvtools_112
+#EXTGRP:CANALES FUNCIONALES
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:0,iptvtools_113
+#EXTGRP:CANALES FUNCIONALES
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+#EXTINF:0,iptvtools_114
+#EXTGRP:CANALES FUNCIONALES
+http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
+#EXTINF:0,iptvtools_115
+#EXTGRP:CANALES FUNCIONALES
+http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8
+#EXTINF:0,iptvtools_116
+#EXTGRP:CANALES FUNCIONALES
+http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+#EXTINF:0,iptvtools_117
+#EXTGRP:CANALES FUNCIONALES
+http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8
+#EXTINF:0,iptvtools_118
+#EXTGRP:CANALES FUNCIONALES
+http://canal22santiago.cl/playlist.m3u8
+#EXTINF:0,iptvtools_119
+#EXTGRP:CANALES FUNCIONALES
+http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
+#EXTINF:0,iptvtools_120
+#EXTGRP:CANALES FUNCIONALES
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+#EXTINF:0,iptvtools_121
+#EXTGRP:CANALES FUNCIONALES
+http://evo.eltelon.com:1935/live/fm-hot-tv/playlist.m3u8
+#EXTINF:0,iptvtools_122
+#EXTGRP:CANALES FUNCIONALES
+http://movilstream.digitalproserver.com/itv/itvvivo/mp4:livestream1/playlist.m3u8
+#EXTINF:0,iptvtools_123
+#EXTGRP:CANALES FUNCIONALES
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/playlist.m3u8
+#EXTINF:0,iptvtools_124
+#EXTGRP:CANALES FUNCIONALES
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+#EXTINF:0,iptvtools_125
+#EXTGRP:CANALES FUNCIONALES
+http://unlimited5-cl.dps.live/tlvida/tlvida.smil/tlvida/livestream1/chunks.m3u8
+#EXTINF:0,iptvtools_126
+#EXTGRP:CANALES FUNCIONALES
+http://sietransdemos.com/iptv/tvmaule.m3u8
+#EXTINF:0,iptvtools_127
+#EXTGRP:CANALES FUNCIONALES
+http://69.164.193.177:1935/live/myStream/master.m3u8
+#EXTINF:0,iptvtools_128
+#EXTGRP:CANALES FUNCIONALES
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:0,iptvtools_129
+#EXTGRP:CANALES FUNCIONALES
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+#EXTINF:0,iptvtools_130
+#EXTGRP:CANALES FUNCIONALES
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
+#EXTINF:0,iptvtools_131
+#EXTGRP:CANALES FUNCIONALES
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+#EXTINF:0,iptvtools_132
+#EXTGRP:CANALES FUNCIONALES
+http://live10.cdnmedia.tv/telecaribelive/smil:live.smil/chunklist_b1500000.m3u8
+#EXTINF:0,iptvtools_133
+#EXTGRP:CANALES FUNCIONALES
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:0,iptvtools_134
+#EXTGRP:CANALES FUNCIONALES
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:0,iptvtools_135
+#EXTGRP:CANALES FUNCIONALES
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+#EXTINF:0,iptvtools_136
+#EXTGRP:CANALES FUNCIONALES
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/360p/playlist.m3u8
+#EXTINF:0,iptvtools_137
+#EXTGRP:CANALES FUNCIONALES
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+#EXTINF:0,iptvtools_138
+#EXTGRP:CANALES FUNCIONALES
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+#EXTINF:0,iptvtools_139
+#EXTGRP:CANALES FUNCIONALES
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:0,iptvtools_140
+#EXTGRP:CANALES FUNCIONALES
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:0,iptvtools_141
+#EXTGRP:CANALES FUNCIONALES
+http://163.172.15.219:1935/live/vivatv/playlist.m3u8
+#EXTINF:0,iptvtools_142
+#EXTGRP:CANALES FUNCIONALES
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:0,iptvtools_143
+#EXTGRP:CANALES FUNCIONALES
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+#EXTINF:0,iptvtools_144
+#EXTGRP:CANALES FUNCIONALES
+http://cls.todostreaming.eu/unatv/live/chunklist.m3u8
+#EXTINF:0,iptvtools_145
+#EXTGRP:CANALES FUNCIONALES
+http://cast.streamingconnect.com:1935/csflamenco/csflamenco/playlist.m3u8
+#EXTINF:0,iptvtools_146
+#EXTGRP:CANALES FUNCIONALES
+http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8
+#EXTINF:0,iptvtools_147
+#EXTGRP:CANALES FUNCIONALES
+http://cls.elitehd-audiovisuales.com:80/luztv/livestream/live.m3u8
+#EXTINF:0,iptvtools_148
+#EXTGRP:CANALES FUNCIONALES
+http://188.165.135.22/rtvd/livestream/chunklist_w662830705.m3u8
+#EXTINF:0,iptvtools_149
+#EXTGRP:CANALES FUNCIONALES
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+#EXTINF:0,iptvtools_150
+#EXTGRP:CANALES FUNCIONALES
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+#EXTINF:0,iptvtools_151
+#EXTGRP:CANALES FUNCIONALES
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,iptvtools_152
+#EXTGRP:CANALES FUNCIONALES
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:0,iptvtools_153
+#EXTGRP:CANALES FUNCIONALES
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
+#EXTINF:0,iptvtools_154
+#EXTGRP:CANALES FUNCIONALES
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+#EXTINF:0,iptvtools_155
+#EXTGRP:CANALES FUNCIONALES
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,iptvtools_156
+#EXTGRP:CANALES FUNCIONALES
+http://cls.provideo.es/marbellatv/livestream/chunklist.m3u8
+#EXTINF:0,iptvtools_157
+#EXTGRP:CANALES FUNCIONALES
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,iptvtools_158
+#EXTGRP:CANALES FUNCIONALES
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
+#EXTINF:0,iptvtools_159
+#EXTGRP:CANALES FUNCIONALES
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:0,iptvtools_160
+#EXTGRP:CANALES FUNCIONALES
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
+#EXTINF:0,iptvtools_161
+#EXTGRP:CANALES FUNCIONALES
+http://media3.crtvg.es/live/_definst_/tvga_2/playlist.m3u8
+#EXTINF:0,iptvtools_162
+#EXTGRP:CANALES FUNCIONALES
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,iptvtools_163
+#EXTGRP:CANALES FUNCIONALES
+http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8
+#EXTINF:0,iptvtools_164
+#EXTGRP:CANALES FUNCIONALES
+http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/chunklist_b915536.m3u8
+#EXTINF:0,iptvtools_165
+#EXTGRP:CANALES FUNCIONALES
+http://3.bp.blogspot.com/-pAJRParqFLQ/VGEk7cy6CFI/AAAAAAAAJDs/ybpIYIFCWEE/s1600/azteca%2B
+#EXTINF:0,iptvtools_166
+#EXTGRP:CANALES FUNCIONALES
+http://aztecalive-lh.akamaihd.net:80/i/0oxnvzh8a_1@175671/index_3_av-p.m3u8
+#EXTINF:0,iptvtools_167
+#EXTGRP:CANALES FUNCIONALES
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:0,iptvtools_168
+#EXTGRP:CANALES FUNCIONALES
+http://192.163.250.253:1935/live/canal4/playlist.m3u8
+#EXTINF:0,iptvtools_169
+#EXTGRP:CANALES FUNCIONALES
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0,iptvtools_170
+#EXTGRP:CANALES FUNCIONALES
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,iptvtools_171
+#EXTGRP:CANALES FUNCIONALES
+http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
+#EXTINF:0,iptvtools_172
+#EXTGRP:CANALES FUNCIONALES
+http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dbf5dbbfc8f16bb63ce1/publish/media_1200.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fmonterrey&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486350658770
+#EXTINF:0,iptvtools_173
+#EXTGRP:CANALES FUNCIONALES
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+#EXTINF:0,iptvtools_174
+#EXTGRP:CANALES FUNCIONALES
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:0,iptvtools_175
+#EXTGRP:CANALES FUNCIONALES
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:0,iptvtools_176
+#EXTGRP:CANALES FUNCIONALES
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:0,iptvtools_177
+#EXTGRP:CANALES FUNCIONALES
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:0,iptvtools_178
+#EXTGRP:CANALES FUNCIONALES
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+#EXTINF:0,iptvtools_179
+#EXTGRP:CANALES FUNCIONALES
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:0,iptvtools_180
+#EXTGRP:CANALES FUNCIONALES
+http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
+#EXTINF:0,iptvtools_181
+#EXTGRP:CANALES FUNCIONALES
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u
+#EXTINF:0,iptvtools_182
+#EXTGRP:CANALES FUNCIONALES
+http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/chunklist_w1277967391_b1428000_sleng.m3u8
+#EXTINF:0,iptvtools_183
+#EXTGRP:CANALES FUNCIONALES
+http://216.227.135.186:1935/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.m3u8
+#EXTINF:0,iptvtools_184
+#EXTGRP:CANALES FUNCIONALES
+http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+#EXTINF:0,iptvtools_185
+#EXTGRP:CANALES FUNCIONALES
+http://live-01.viewer.dacast.com/i/dclive_1@311302/index_150_av-p.m3u8?sd=6&rebase=on
+#EXTINF:0,iptvtools_186
+#EXTGRP:CANALES FUNCIONALES
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
+#EXTINF:0,iptvtools_187
+#EXTGRP:CANALES FUNCIONALES
+http://strm.unicanal.com.py/live/unicanal_mid.m3u8
+#EXTINF:0,iptvtools_188
+#EXTGRP:CANALES FUNCIONALES
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:0,iptvtools_189
+#EXTGRP:CANALES FUNCIONALES
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
+#EXTINF:0,iptvtools_190
+#EXTGRP:CANALES FUNCIONALES
+http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
+#EXTINF:0,iptvtools_191
+#EXTGRP:CANALES FUNCIONALES
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+#EXTINF:0,iptvtools_192
+#EXTGRP:CANALES FUNCIONALES
+http://stream.iglesiaytecnologia.com:2077/live/tvlaluz/playlist.m3u8
+#EXTINF:0,iptvtools_193
+#EXTGRP:CANALES FUNCIONALES
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:0,iptvtools_194
+#EXTGRP:CANALES FUNCIONALES
+http://m.mediastream.pe/vv_willax/livestream/master.m3u8
+#EXTINF:0,iptvtools_195
+#EXTGRP:CANALES FUNCIONALES
+http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
+#EXTINF:0,iptvtools_196
+#EXTGRP:CANALES FUNCIONALES
+http://2.bp.blogspot.com/-ebrs35rOyag/VTRd_wFKbiI/AAAAAAAAAqI/-kl4DD9B90o/s320/Canal%2B4RD.jpg,Canal
+#EXTINF:0,iptvtools_197
+#EXTGRP:CANALES FUNCIONALES
+http://216.24.196.40:1935/live/canal4/playlist.m3u8
+#EXTINF:0,iptvtools_198
+#EXTGRP:CANALES FUNCIONALES
+http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
+#EXTINF:0,iptvtools_199
+#EXTGRP:CANALES FUNCIONALES
+http://newyorkstream.ddns.net:1935/live/myStream/playlist.m3u8
+#EXTINF:0,iptvtools_200
+#EXTGRP:CANALES FUNCIONALES
+http://bit.ly/2uONqag
+#EXTINF:0,iptvtools_201
+#EXTGRP:CANALES FUNCIONALES
+http://ciez45.live.cloud.influxis.com/ciez45/_definst_/NaranjaTV/playlist.m3u8
+#EXTINF:0,iptvtools_202
+#EXTGRP:CANALES FUNCIONALES
+http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8
+#EXTINF:0,iptvtools_203
+#EXTGRP:CANALES FUNCIONALES
+http://ss6.domint.net:2002/pvv_str/peravia/playlist.m3u8
+#EXTINF:0,iptvtools_204
+#EXTGRP:CANALES FUNCIONALES
+http://newyorkstream.ddns.net:1935/supercanalcaribe/supercanalcaribe/playlist.m3u8?wowzasessionid=1572023888
+#EXTINF:0,iptvtools_205
+#EXTGRP:CANALES FUNCIONALES
+http://qs1.distream.net:2116/t45_str/canal45/playlist.m3u8
+#EXTINF:0,iptvtools_206
+#EXTGRP:CANALES FUNCIONALES
+http://strm.unicanal.com.py/live/unicanal.m3u8
+#EXTINF:0,iptvtools_207
+#EXTGRP:CANALES FUNCIONALES
+http://enc-fwt.lorini.net/telearagua/telearagua/tracks-v1a1/index.m3u8
+#EXTINF:0,iptvtools_208
+#EXTGRP:CANALES FUNCIONALES
+http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
 #EXTINF:0,HBO
 #EXTGRP:LISTA4
 http://wowza2.mysoltv.com:1992/Latino_HBO/tracks-v1a1/index.m3u8

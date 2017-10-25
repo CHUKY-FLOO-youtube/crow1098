@@ -1,4 +1,101 @@
 #EXTM3U
+#EXTINF:0,HBO
+#EXTGRP:LISTA4
+http://wowza2.mysoltv.com:1992/Latino_HBO/tracks-v1a1/index.m3u8
+#EXTINF:0,HBO SD
+#EXTGRP:LISTA4
+http://186.103.216.85:85/matias_test/p.php?id=107&type=m3u8
+#EXTINF:0,HBO 2
+#EXTGRP:LISTA4
+http://wowza2.mysoltv.com:1992/Latino_HBO_2/tracks-v1a1/index.m3u8
+#EXTINF:0,GOLDEN
+#EXTGRP:LISTA4
+http://edge2.everyon.tv:1935/etv2sb/pld499/chunklist_w1881789237.m3u8
+#EXTINF:0,DISNEY XD ESP
+#EXTGRP:LISTA4
+http://iptv.cs2017.info:9090/live/vaquezs/24/128.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0,NICKELEODEON
+#EXTGRP:LISTA4
+http://iptv.cs2017.info:9090/live/vaquezs/24/226.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0,TELEFE.
+#EXTGRP:LISTA4
+http://ar.watcha.live/ch6/hi.m3u8
+#EXTINF:0,CANAL 26 AR
+#EXTGRP:LISTA4
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:0,AZTECA 13.
+#EXTGRP:LISTA4
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:0,LAS ESTRELLAS.
+#EXTGRP:LISTA4
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:0,CARACOL HD
+#EXTGRP:LISTA4
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:0,RCN novelas.
+#EXTGRP:LISTA4
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?tecnotv.info?.m3u
+#EXTINF:0,DISNEY CHANNEL
+#EXTGRP:LISTA4
+http://iptv.cs2017.info:9090/live/vaquezs/24/146.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0,DISNEY JUNIOR
+#EXTGRP:LISTA4
+http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
+#EXTINF:0,TV CHILE
+#EXTGRP:LISTA4
+http://iptvcanales.ml/hls/channel/tvn_sd.m3u8
+#EXTINF:0,CHILEVISION
+#EXTGRP:LISTA4
+http://chv.movil.hls.ztreaming.com/chvmovil2/chilevision@140569/1.m3u8
+#EXTINF:0,T13
+#EXTGRP:LISTA4
+http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13lq
+#EXTINF:0,ANTENA INTERNACIONAL
+#EXTGRP:LISTA4
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:0,LA SEXTA
+#EXTGRP:LISTA4
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,NEOX
+#EXTGRP:LISTA4
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:0,NOVA
+#EXTGRP:LISTA4
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+#EXTINF:0,MEGA
+#EXTGRP:LISTA4
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
+#EXTINF:0,A3 SERIES
+#EXTGRP:LISTA4
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:0,GOLDEN
+#EXTGRP:LISTA4
+http://edge2.everyon.tv:1935/etv2sb/pld499/chunklist_w1881789237.m3u8
+#EXTINF:0,COMEDY CENTRAL ESP
+#EXTGRP:LISTA4
+http://iptv.cs2017.info:9090/live/vaquezs/24/164.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0,GARAGE TV
+#EXTGRP:LISTA4
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8#EXTM3U
+#EXTINF:0,[COLOR WHITE] [/COLOR]SUSCRIBETE--www.youtube.com/LISTASIPTVFREE
+#EXTGRP:LISTA4
+https://www.youtube.com/c/LISTASIPTVFREE
+#EXTINF:0,[COLOR WHITE] [/COLOR]LISTA ADULTO
+#EXTGRP:LISTA4
+https://tecnowillblog.wordpress.comhttps://www.youtube.com/c/LISTASIPTVFREE
+#EXTINF:0,JASMIN tv
+#EXTGRP:LISTA4
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8?jhonlocao
+#EXTINF:0,BabeStation Xtreme
+#EXTGRP:LISTA4
+http://212.250.196.74:1935/bsx24/_definst_/mpegts1.stream/chunklist_w1734025972.m3u8
+#EXTINF:0,PRIVATE TV LIVE
+#EXTGRP:LISTA4
+https://ip50693777.ahcdn.com/key=ba1KlTfDRYr-zdjomnKHXw,s=,end=1507868518,ip=167.59.29.32/state=pzsd/reftag=026428836/media=hls/34/111/3/24889013.m3u8
+#EXTINF:0,PLAYBOY
+#EXTGRP:LISTA4
+https://m3u8.porndig.com/rfhahls.porndig.com/_definst_/videos/2011/02/95_20140106.smil/chunklist_b730000.m3u8?validfrom=1507855378&validto=1507869778&ip=167.59.29.32&hdl=-1&hash=Lg4szBM1oBpDM%2Fc0izNSES4btZM%3D
+
 #EXTINF:0,A1 SPORTS
 #EXTGRP:LISTA1
 http://109.236.91.150:8080/A1Sport/index.m3u8
@@ -11399,3 +11496,31 @@ http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8?crea
 #EXTINF:0,BETIS TV
 #EXTGRP:ESPAÑA Y MAS
 http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8?creadoresenarmoniautopialists
+
+#EXTINF:0,HD WAPPA
+#EXTGRP:ESPAÑA
+http://dcunilive14-lh.akamaihd.net/i/dclive_1@176094/master.m3u8
+#EXTINF:0,Antena 3 HD
+#EXTGRP:ESPAÑA
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:0,La Sexta HD
+#EXTGRP:ESPAÑA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+#EXTINF:0,MEGA HD
+#EXTGRP:ESPAÑA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
+#EXTINF:0,Neox
+#EXTGRP:ESPAÑA
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:0,NOVA  HD
+#EXTGRP:ESPAÑA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8
+#EXTINF:0,A3SERIES HD
+#EXTGRP:ESPAÑA
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8
+#EXTINF:0,GreenTV
+#EXTGRP:ESPAÑA
+http://grupomac-lh.akamaihd.net/i/0pin4uhat_1@301783/master.m3u8
+#EXTINF:0,Cool 103.7 HD
+#EXTGRP:ESPAÑA
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
